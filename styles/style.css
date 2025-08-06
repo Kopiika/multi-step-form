@@ -34,7 +34,7 @@ body {
 
 .sidebar {
   grid-area: sidebar;
-  background: url("/assets/images/bg-sidebar-desktop.svg") center / cover
+  background: url("../assets/images/bg-sidebar-desktop.svg") center / cover
     no-repeat;
   border-radius: 10px;
 }
@@ -559,7 +559,7 @@ form input:hover {
   }
 
   .sidebar {
-    background: url("/assets/images/bg-sidebar-mobile.svg") center / cover
+    background: url("../assets/images/bg-sidebar-mobile.svg") center / cover
       no-repeat;
     border-radius: 0px;
     width: 100%;
