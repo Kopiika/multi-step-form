@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [multi-step-form](https://github.com/Kopiika/multi-step-form)
+- Live Site URL: [multi-step-form]( https://kopiika.github.io/multi-step-form/)
 
 ## My process
 
